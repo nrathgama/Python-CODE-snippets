@@ -10,3 +10,11 @@ def word_triangle(string):
   #print(n)
   
 word_triangle("kitten")
+
+#Answer
+#kitten
+#kitte
+#kitt
+#kit
+#ki
+#k
