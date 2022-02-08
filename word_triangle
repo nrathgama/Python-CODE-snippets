@@ -4,7 +4,7 @@ def word_triangle(string):
     print(string[:n])
     n=n-1
 
-#print(n)
+print(n)
   
 word_triangle("kitten")
 
